@@ -11,5 +11,9 @@
 - анализ работодателей;
 - предметный анализ.
 
-- Ccылка на исходник в Github https://github.com/dmitrydivin/PROJECT-2-hh-analysis/blob/main/Project_2_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8%CC%86_%D0%B8%D0%B7_HeadHunter.ipynb
-- Ссылка проекта на Google colab https://colab.research.google.com/drive/1KRxBDs4Z13ppFp94omG5_VxgpV9w1Oo-?usp=sharing
+
+Ссылки на проект
+--
+- [Github](https://github.com/dmitrydivin/PROJECT-2-hh-analysis/blob/main/Project_2_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D0%B2%D0%B0%D0%BA%D0%B0%D0%BD%D1%81%D0%B8%D0%B8%CC%86_%D0%B8%D0%B7_HeadHunter.ipynb)
+- [Google colab](https://colab.research.google.com/drive/1KRxBDs4Z13ppFp94omG5_VxgpV9w1Oo-?usp=sharing
+)
